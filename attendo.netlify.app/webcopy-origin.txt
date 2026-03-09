@@ -1,0 +1,144 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://attendo.netlify.app/
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://attendo.netlify.app/Attendo/3 shape right.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\3 shape right.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/3D Man.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\3D Man.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/3d shape left.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\3d shape left.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Apple Store Clear.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Apple Store Clear.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Attend symbol.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Attend symbol.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Attendo End.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Attendo End.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/facebook.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Google Play Clear.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Google Play Clear.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/instagram.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Location image@2x.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Location image@2x.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Logo.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Org symbol.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Org symbol.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Parallax image.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Parallax image.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/phone box org.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\phone box org.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Phones@2x.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Phones@2x.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/rampion logo.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\rampion logo.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/shedule image@2x.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\shedule image@2x.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Stars.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Stars.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/Title Image@2x.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\Title Image@2x.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/Attendo/twitter.svg
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\Attendo\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://attendo.netlify.app/index.css
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\index.css
+Content Type: text/css
+
+Uri: https://attendo.netlify.app/js/skew.js
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\js\skew.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.12.4.js
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\jquery-1.12.4.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/jquery-ui.js
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ui\1.12.1\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ui\1.12.1\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ui\1.12.1\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ui\1.12.1\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ui\1.12.1\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ui\1.12.1\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ui\1.12.1\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\ui\1.12.1\themes\base\jquery-ui.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\aos@2.3.1\dist\aos.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/axios@1.13.6/dist/axios.min.js
+File Name: C:\Downloaded Web Sites\attendo.netlify.app\axios@1.13.6\dist\axios.min.js
+Content Type: text/javascript
+
